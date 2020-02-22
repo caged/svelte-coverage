@@ -1,0 +1,11 @@
+{
+  "name": "svelte-coverage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Justin Palmer",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "svelte": "^3.18.2"
+  }
+}
